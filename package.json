@@ -5,8 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install npm && run build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Irwan Wahyudi",
   "license": "ISC",
